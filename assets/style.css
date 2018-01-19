@@ -1,0 +1,131 @@
+.body-box {
+	background-color: #ffffff;
+	height: auto;
+	width: 650px;
+	height: 400px;
+	margin: 25px 0px 0px 270px;
+	border-color: #dddddd;
+	border-style: solid;
+}
+
+#main-name-header {
+	background-color: #4aaaa5;
+	text-align: center;
+	padding: 30px;
+	height: 60px;
+	width: 200px;
+	margin-top: 0 auto;
+	margin-bottom: 30px;
+	margin-left: 50px;
+
+}
+
+#links {
+	background-color: #ffffff;
+	height: 50px;
+	width: 200px;
+	padding: 25px;
+	text-align: center;
+	position: relative;
+	bottom: 85px;
+	margin-left: 590px;
+	/*border-right-style: solid;*/
+	/*border-color: #dddddd;*/
+	/*float: left;*/
+}
+
+.box-heading-bar {
+	background-color: #ffffff;
+	width: 970px;
+	height: 120px;
+	margin-left: 270px;
+	
+	position: static;
+	bottom: 30px;
+	border-bottom-style: solid;
+	border-color: #dddddd;
+	
+
+}
+
+
+.box-aboutMe {
+		color: #4aaaa5;
+		/*float: left;*/
+		margin-top: 25px;
+		border-style-bottom: solid;
+		border-color: #dddddd;
+}
+
+.box-Picture {
+	height: 200px;
+	width: 200px;
+	float: left;
+	/*margin: 30px 30px 30px 30px;*/
+	/*position: relative;*/
+	
+	
+}
+
+.box-Connect {
+	float: right;
+	position: static;
+	text-align: center;
+	background-color: #ffffff;
+	height: 150px;
+	width: 270px;
+	margin: 25px -40px 25px 0px;
+	border-style: solid;
+	border-color: #dddddd;
+
+	
+
+
+}
+
+.box-Connect-header {
+	border-style-bottom: solid;
+	border-color: #dddddd;
+}
+
+.box-Paragraph {
+	margin: 25px 25px 25px 25px;
+	
+}
+
+.box-footer {
+	height: 50px;
+	width: 100%;
+	background-color: #666666;
+	text-align: center;
+	padding: 30px;
+	margin-bottom: 0 auto;
+}
+.wholething {
+	width: 1200px;
+	height: 500px;
+}
+
+
+body {
+	background-image: url("D:KU/Portfolio index/assets/pictures/Background.png");
+
+}
+
+a {
+	color: #e1e1e1;
+	border-right-style: solid;
+	border-color: #dddddd;
+	margin-right: 2px;
+	margin-left: 2px;
+
+}
+ 
+h1 {
+	color: #ffffff;
+}
+
+h2 {
+	color: #4aaaa5;
+}
+
